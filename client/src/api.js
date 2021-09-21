@@ -1,0 +1,1 @@
+export const ENDPOINT = 'https://react-chat-server-nazariiko.herokuapp.com';
